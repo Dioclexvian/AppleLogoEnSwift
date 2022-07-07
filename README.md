@@ -1,4 +1,4 @@
-# AppleLogoEnSwift
+# AppleLogoEnSwift
 >Se dibuja el logo de apple basado en el mito que este logo está basado en de los círculos proporcionados con respecto a la serie de Fibonacci
 
 
